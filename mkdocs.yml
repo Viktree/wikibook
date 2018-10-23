@@ -18,51 +18,48 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-
 # For Information on getting started, see:
 # See https://squidfunk.github.io/mkdocs-material/getting-started/
 
 # Project information
 site_name: "Viktree Docs"
-site_description: 'A hardrive to my memory'
-site_author: 'Vikram Venkataramanan'
-site_url: ''
+site_description: "A hardrive to my memory"
+site_author: "Vikram Venkataramanan"
+site_url: ""
 
 # Repository
-repo_name: 'viktree/my-wiki'
-repo_url: 'https://github.com/viktree/my-wiki'
+repo_name: "viktree/my-wiki"
+repo_url: "https://github.com/Viktree/my-wiki"
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2017 Vikram Venkataramanan'
+copyright: "Copyright &copy; 2016 - 2017 Vikram Venkataramanan"
 
 # Theme Configutration
 theme:
-  name: 'material'
-  language: 'en'
+  name: "material"
+  language: "en"
   palette:
-    primary: 'green'
-    accent: 'indigo'
+    primary: "orange"
+    accent: "indigo"
   font:
-    text: 'Roboto'
-    code: 'Ubuntu Mono'
-  logo:
-    icon: 'dashboard'
+    text: "Roboto"
+    code: "Ubuntu Mono"
   feature:
-    tabs: false
+    tabs: true
 
 # Extra
 extra:
-  disqus: 'your-shortname'
+  # disqus: 'your-shortname'
   social:
-    - type: 'github'
-      link: ''
-    - type: 'linkedin'
-      link: ''
+    - type: "github"
+      link: ""
+    - type: "linkedin"
+      link: ""
 
 # Google Analytics
 google_analytics:
-  - 'UA-XXXXXXXX-X'
-  - 'auto'
+  - "UA-XXXXXXXX-X"
+  - "auto"
 
 # Extensions
 markdown_extensions:
@@ -80,8 +77,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink
@@ -90,3 +85,4 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+      clickable_checkbox: true

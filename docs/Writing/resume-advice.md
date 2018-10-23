@@ -1,0 +1,3 @@
+## Resume Advice
+
+-   The number one best way to get someone to look at your resume closely: come across as a human being, not a list of jobs and programming languages. Tell me a little story. “I’ve spent the last three weeks looking for a job at a real software company, but all I can find are cheezy web design shops looking for slave labor.” Or, “We yanked our son out of high school and brought him to Virginia. I am not going to move again until he is out of high school, even if I have to go work at Radio Shack or become a Wal\*Mart greeter.” (These are slightly modified quotes from two real people.)
