@@ -46,6 +46,8 @@ theme:
     code: "Ubuntu Mono"
   feature:
     tabs: true
+  logo:
+    icon: "palette"
 
 # Extra
 extra:
